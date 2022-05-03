@@ -85,6 +85,8 @@ Alternatively, here is a screenshot:
 
 > ![Screenshot of JATE page & app](./assets/images/screen.png "Screenshot of JATE page & app")
 
+Assisted by Rachel Harris.
+
 ---
 <p style="text-align:center;">Written by <span style="font-style:italic">Steve Barry</span> - Due date 19/04/2022</p>
 
